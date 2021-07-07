@@ -140,9 +140,10 @@ button:hover{
             $row = mysqli_fetch_array($query_run);
                   if($row['profile_image']==NULL)
                       echo "profile_pics/demoprofile.png";
-                  else{
+                  else if(!file_exist("profile_pics/".$row['profile_image']))
+                      echo "profile_pics/demoprofile.png";
+                  else
                       echo "profile_pics/" . $row['profile_image'];
-                  }
           }
               ?>
               " alt="">
