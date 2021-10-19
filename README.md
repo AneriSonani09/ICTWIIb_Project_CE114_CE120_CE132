@@ -1,5 +1,6 @@
 # *Online-Mobile-Shopping-System*
-*__ICTW-b Termwork Project__ named __"[Online Mobile Shopping System](https://github.com/Siddhu2543/Online-Mobile-Shopping-System)"__ created by [Siddharth Vadgama ( CE132 )](https://github.com/Siddhu2543), [Smit Padaliya ( CE114 )](https://github.com/Smit-05) and [Aneri Sonani ( CE120 )](https://github.com/AneriSonani09).*
+*__ICTW-b Termwork Project__ named __"[Online Mobile Shopping System](https://github.com/Siddhu2543/ICTWIIb_Project_CE114_CE120_CE132
+)"__ created by [Siddharth Vadgama ( CE132 )](https://github.com/Siddhu2543), [Smit Padaliya ( CE114 )](https://github.com/Smit-05) and [Aneri Sonani ( CE120 )](https://github.com/AneriSonani09).*
 
 ### Description
 *This is a project for ICTW-b Teamwork submission. The project name is "Online-Mobile-Shopping-System". Our project is based on*
